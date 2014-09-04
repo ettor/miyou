@@ -35,7 +35,7 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/3.jpg"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.gome.com.cn"><img width="130px" height="40px" src="__STATIC__/images181233/shops/3.jpg"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
@@ -43,99 +43,99 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/5.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.suning.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/5.png"  alt=" " border="0"/></a>
 </td>
     
 </tr>
 
 <tr>
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/6.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.jd.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/6.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/7.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.newegg.cn"><img width="130px" height="40px" src="__STATIC__/images181233/shops/7.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/8.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.vip.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/8.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/9.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.ctrip.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/9.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/10.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.elong.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/10.png"  alt=" " border="0"/></a>
 </td>
     
 </tr>
 
 <tr>
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/11.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://tuan.lefeng.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/11.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/12.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.dianping.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/12.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/13.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.jumei.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/13.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/14.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.lvmama.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/14.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/15.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.mbaobao.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/15.png"  alt=" " border="0"/></a>
 </td>
     
 </tr>
 
 <tr>
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/16.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.fengbuy.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/16.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/17.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.happigo.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/17.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/18.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.happigo.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/18.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/19.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.yintai.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/19.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/20.jpg"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://shop.wanggou.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/20.jpg"  alt=" " border="0"/></a>
 </td>
     
 </tr>
 
 <tr>
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/21.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.s.cn"><img width="130px" height="40px" src="__STATIC__/images181233/shops/21.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/22.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.muyingzhijia.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/22.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/23.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.muyingzhijia.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/23.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/24.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.muyingzhijia.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/24.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://181233.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/25.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.vmall.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/25.png"  alt=" " border="0"/></a>
 </td>
     
 </tr>
