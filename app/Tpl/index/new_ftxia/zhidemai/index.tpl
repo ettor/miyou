@@ -12,7 +12,7 @@
 <div class="jiu-nav-main jiu-nav-main-2" id="seclevel">
 	<div class="jiu-nav {:C('ftx_site_width')}  seclevelinner">
 		<div class="nav-item  ">
-			<div class="item-list">
+			<div class="item-list" style="margin-left:25px;margin-top:5px">
 				<ul>
 					<a data-type="5" data-tmpl="950x30" data-tmplid="139" data-style="2" data-border="1" href="#">淘宝充值</a>
 				</ul>
