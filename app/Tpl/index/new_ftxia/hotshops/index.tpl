@@ -73,7 +73,7 @@
 
 <tr>
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-	<a target="_blank" href="http://tuan.lefeng.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/11.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://track.lefeng.com/track.jsp?aid=1958694&cid2=lefeng&url=http://www.lefeng.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/11.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">

@@ -89,6 +89,21 @@
 
 
 </table>
+
+<table style="margin-top:10px">
+<tr>
+<td style="vertical-align:top;width:480px;">
+	<a href="http://track.lefeng.com/track.jsp?aid=1958694&url=http://pinpai.lefeng.com/shepin.html" target="_blank"><img src="http://img1.imglafaso.com/unionImageRepository/2013/04/07/20130407052156.jpg" /></a>
+</td>
+
+<td style="vertical-align:top;width:480px;margin-left:5px">
+	<a href="http://track.lefeng.com/track.jsp?aid=1958694&url=http://cuxiao.lefeng.com/xzhuanti_zqtm.html" target="_blank"><img src="http://img1.imglafaso.com/unionImageRepository/2014/09/05/20140905110020.jpg" /></a>
+</td>
+    
+</tr>
+
+
+</table>
 </div>
     
 </div>
