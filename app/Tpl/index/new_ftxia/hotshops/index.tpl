@@ -35,7 +35,7 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.gome.com.cn"><img width="130px" height="40px" src="__STATIC__/images181233/shops/3.jpg"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://cps.gome.com.cn/home/JoinUnion?sid=4574&wid=5783&feedback=国美首页&to=http://www.gome.com.cn"><img width="130px" height="40px" src="__STATIC__/images181233/shops/3.jpg"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
@@ -58,11 +58,11 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.vip.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/8.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://click.union.vip.com/redirect.php?url=eyJkZXN0dXJsIjoiaHR0cDpcL1wvd3d3LnZpcC5jb20iLCJ1Y29kZSI6ImszcGdyanZmIiwic2NoZW1lY29kZSI6ImY1YTA1ZDY2In0="><img width="130px" height="40px" src="__STATIC__/images181233/shops/8.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.ctrip.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/9.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://u.ctrip.com/union/CtripRedirect.aspx?TypeID=2&Allianceid=23358&sid=458040&OUID=&jumpUrl=http://www.ctrip.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/9.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">

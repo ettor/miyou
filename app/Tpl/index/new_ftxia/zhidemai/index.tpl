@@ -74,6 +74,21 @@
 
 
 </table>
+
+<table style="margin-top:10px">
+<tr>
+<td style="vertical-align:top;width:480px;">
+	<iframe src="http://group.gome.com.cn/Active/ActiveImg?sid=4574&wid=123&category=2&bid=3&feedback=" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border: none;" frameborder="0"></iframe>
+</td>
+
+<td style="vertical-align:top;width:480px;margin-left:5px">
+	<iframe src="http://union.vip.com/window.php?schemecode=tcjy44sa&ucode=k3pgrjvf&chan=vip&primary_category=-1" width="468" height="60"  scrolling="no" frameborder="0"></iframe>
+</td>
+    
+</tr>
+
+
+</table>
 </div>
     
 </div>
