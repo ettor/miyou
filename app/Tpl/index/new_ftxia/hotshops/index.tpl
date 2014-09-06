@@ -26,7 +26,12 @@
 <div style="margin-top:30px;">
 <table>
 <tr>
+
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
+	<a target="_blank" href="http://click.union.vip.com/redirect.php?url=eyJkZXN0dXJsIjoiaHR0cDpcL1wvd3d3LnZpcC5jb20iLCJ1Y29kZSI6ImszcGdyanZmIiwic2NoZW1lY29kZSI6ImY1YTA1ZDY2In0="><img width="130px" height="40px" src="__STATIC__/images181233/shops/8.png"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
 	<a target="_blank" href="http://www.yhd.com?tracker_u=107488170&union_ref=7"><img width="130px" height="40px" src="__STATIC__/images181233/shops/1.png"  alt=" " border="0"/></a>
 </td>
 
@@ -41,9 +46,29 @@
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
 	<a target="_blank" href="http://union.dangdang.com/transfer.php?from=P-324801&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fwww.dangdang.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/4.png"  alt=" " border="0"/></a>
 </td>
+    
+</tr>
+
+<tr>
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
+	<a target="_blank" href="http://track.lefeng.com/track.jsp?aid=1958694&cid2=lefeng&url=http://www.lefeng.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/11.png"  alt=" " border="0"/></a>
+</td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.suning.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/5.png"  alt=" " border="0"/></a>
+	<script type="text/javascript">var source="ettor";sourcesuninfo="ad-0-4-0-0-1";</script><script type="text/javascript" src="http://jsy.vanclimg.com/Public/adSearch.js"></script>
+	<a href="http://www.vancl.com?source=ettor&sourcesuninfo=ad-0-4-0-0-1" target="_blank"><img width="130px" height="40px" src="__STATIC__/images181233/shops/25.jpg" border="0" /></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://www.happigo.com?app=cps&cps_id=99&cps_u_id=1222-1352&url=http://www.happigo.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/17.png"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://cps.yintai.com/Websource.aspx?source=ettor&url=http://www.yintai.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/19.png"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://u.ctrip.com/union/CtripRedirect.aspx?TypeID=2&Allianceid=23358&sid=458040&OUID=&jumpUrl=http://www.ctrip.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/9.png"  alt=" " border="0"/></a>
 </td>
     
 </tr>
@@ -58,26 +83,7 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://click.union.vip.com/redirect.php?url=eyJkZXN0dXJsIjoiaHR0cDpcL1wvd3d3LnZpcC5jb20iLCJ1Y29kZSI6ImszcGdyanZmIiwic2NoZW1lY29kZSI6ImY1YTA1ZDY2In0="><img width="130px" height="40px" src="__STATIC__/images181233/shops/8.png"  alt=" " border="0"/></a>
-</td>
-
-<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://u.ctrip.com/union/CtripRedirect.aspx?TypeID=2&Allianceid=23358&sid=458040&OUID=&jumpUrl=http://www.ctrip.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/9.png"  alt=" " border="0"/></a>
-</td>
-
-<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.elong.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/10.png"  alt=" " border="0"/></a>
-</td>
-    
-</tr>
-
-<tr>
-<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-	<a target="_blank" href="http://track.lefeng.com/track.jsp?aid=1958694&cid2=lefeng&url=http://www.lefeng.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/11.png"  alt=" " border="0"/></a>
-</td>
-
-<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.dianping.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/12.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.suning.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/5.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
@@ -85,13 +91,30 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.lvmama.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/14.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.elong.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/10.png"  alt=" " border="0"/></a>
+</td>
+</tr>
+
+<tr>
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
+	<a target="_blank" href="http://www.fclub.cn"><img width="130px" height="40px" src="__STATIC__/images181233/shops/26.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.mbaobao.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/15.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.tao3c.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/27.png"  alt=" " border="0"/></a>
 </td>
-    
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://www.paipai.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/28.png"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://redbaby.suning.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/29.png"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://www.beibei.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/30.png"  alt=" " border="0"/></a>
+</td>
 </tr>
 
 <tr>
@@ -100,7 +123,7 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.happigo.com?app=cps&cps_id=99&cps_u_id=1222-1352&url=http://www.happigo.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/17.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.mbaobao.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/15.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
@@ -108,7 +131,7 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.yintai.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/19.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.dianping.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/12.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
@@ -127,15 +150,15 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.muyingzhijia.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/23.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.feiniu.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/23.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.muyingzhijia.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/24.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.winekee.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/24.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.vmall.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/25.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.lvmama.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/14.png"  alt=" " border="0"/></a>
 </td>
     
 </tr>
