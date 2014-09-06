@@ -100,11 +100,11 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.happigo.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/17.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.happigo.com?app=cps&cps_id=99&cps_u_id=1222-1352&url=http://www.happigo.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/17.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.happigo.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/18.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.yougou.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/18.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
