@@ -75,11 +75,11 @@
 
 <tr>
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErntOWZLErI6H2mLErn2s6ZLm6NWO6N6H6EDmrI6HkQLErJKL1nX96JtSrJsepsKSMcL-&e=jd&spm=1.1.1.1&t=http://www.jd.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/6.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.newegg.cn?cm_mmc=CPS-_-ettor-_-ettor-_-eventcode"><img width="130px" height="40px" src="__STATIC__/images181233/shops/7.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErn27WZLErI6H2mLErn2FWZLm6NWO6NBH6E3SrI6HkQLErnB915DlMnX8rteTglUSPQL-&e=xd&spm=1.1.1.1&t=http://www.newegg.cn"><img width="130px" height="40px" src="__STATIC__/images181233/shops/7.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErntOWZLErI6H2mLErn2s6ZLm6NWO6N6H6EDmrI6HkQLErJKL1nX96JtSrJsepsKSMcL-&e=jd&spm=1.1.1.1&t=http://www.jd.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/6.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
