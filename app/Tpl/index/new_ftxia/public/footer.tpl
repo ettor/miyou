@@ -90,7 +90,7 @@
 				</div>
 			</div>
 			<div>
-			<a href="http://s.click.taobao.com/t?e=m%3D2%26s%3DtARsM%2FXckPAcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAmRvW9HFOz9qtNU9je0bkdkkc%2BJkkjZadETqffRqk7YaOkq9WE57tQvfwBLAdMLJSedn1BbglxZYxUhy8exlzcq9AmARIwX9K2Zg%2BdzdQFOwfMRvoxSVDSdLyrb2g0H2G5JcxXijM%2BwneEHpPTskRHlFYAAV9gnNuPTL%2BS6jTvPzN7YQp05KcLcunFBf1wJnpg%3D%3D" target="_blank"><img src="http://gtms01.alicdn.com/tps/i1/TB1VYs.FFXXXXc6XpXXY7MAQpXX-300-100.jpg" /></a>
+			<a href="http://s.click.taobao.com/t?e=m%3D2%26s%3DMck6D7sKfy4cQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAgIXx60Xhg45pgJjgTwC578kc%2BJkkjZadETqffRqk7YaOkq9WE57tQvfwBLAdMLJSedn1BbglxZYxUhy8exlzcq9AmARIwX9K%2BnbtOD3UdznPV1H2z0iQv9NkKVMHClW0QbMqOpFMIvnvjQXzzpXdTHGJe8N%2FwNpGw%3D%3D" target="_blank"><img src="__STATIC__/images181233/aliyun300x100.jpg" /></a>
 			</div>
 			<!--<div class="wechat">
 				<div class="slide-img">
