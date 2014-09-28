@@ -24,7 +24,7 @@
 			<a onclick="SetHome(window.location)" href="javascript:void(0)">设为首页</a>
 			<a href="{:C('ftx_kefu_html')}">在线客服</a>
 			<a href="{:U('user/union')}">邀请好友</a>
-			<a style="color:red" href="/index.php?m=user&amp;a=msg&amp;do=send">有奖爆料</a>
+			<a style="color:#C60000" href="/index.php?m=user&amp;a=msg&amp;do=send">有奖爆料</a>
 			</p>
 			<div id="userlogin" style="display:block">
 				<p class="other-links fr">

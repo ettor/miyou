@@ -4,7 +4,7 @@
 .page a, .page span, .page i { display: inline-block; /*float:left;*/
 background: none repeat scroll 0 0 #FFF; margin-left: 1px; padding: 10px 15px; overflow: hidden; color: #a3370f; font-size: 14px; font-weight: bold; border-right: none; -moz-box-shadow: 1px 1px 3px rgba(226,226,226,0.75); -webkit-box-shadow: 1px 1px 3px rgba(226,226,226,0.75); box-shadow: 1px 1px 3px rgba(226,226,226,0.75); }
 .page a:hover { text-decoration: none; color: #FF6701; }
-.page span { background: #ee6217; color: #fff; font-weight: bold; text-align: center; }
+.page span { background: #E02F2F; color: #fff; font-weight: bold; text-align: center; }
 .page i { color: #d4d4d4; }
 .page a.pg-next { width: 60px; border-radius: 0 20px 20px 0; text-align: center; }
 .page a.pg-next:hover { cursor: pointer; }

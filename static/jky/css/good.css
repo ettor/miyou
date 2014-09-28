@@ -15,7 +15,7 @@
 
 #seclevel .seclevelinner {border-top: 1px dotted #d4d4d4;height: auto;margin: 0 auto;overflow: hidden;}
 
-.nav-other em { display: block; position: absolute; top: 5px; left: 85px; height: 14px; padding: 0 5px; background: #ff6600; color: #FFF; font: normal 10px/14px Arial; border-radius: 5px; }
+.nav-other em { display: block; position: absolute; top: 5px; left: 85px; height: 14px; padding: 0 5px; background: #E02F2F; color: #FFF; font: normal 10px/14px Arial; border-radius: 5px; }
 .nav-other { position: relative; padding-left:20px; background:url(../images/global/line.gif) no-repeat left center; }
 .nav-other ul li { float: left; margin-right:15px; display: inline; }
 .nav-other ul li a { padding: 0 6px; display:inline-block; color:#666; font-weight:bold; font-size:12px; cursor:pointer; height:38px; line-height:42px; _height:20px; _margin-top:16px; }
@@ -104,7 +104,7 @@
 .brand_new { position: absolute; top: -1px; left: -1px; width: 35px; height: 36px; background: url(../images/good/new.png) no-repeat; }
 
 .list-good { position: relative; width: 258px; height: auto; overflow: visible; }
-.list-good.buy .good-price .price-current { color: #ff6600; }
+.list-good.buy .good-price .price-current { color: #E02F2F; }
 .list-good.start .good-price .price-current { color: #5f9910; }
 .list-good.end .good-price .price-current { color: #ababab; }
 .list-good .pic-des { position: absolute; bottom: -41px; left: -1px; z-index: 5; width: 240px; height: 30px; line-height: 28px; background: #f5ffe4; font-size: 12px; color: #acc87c; display: none; padding: 0 9px; border-style: none solid solid solid; box-shadow: 1px 0px 0px rgba(212, 212, 212, 0.8); }
@@ -214,7 +214,7 @@
 .jiu-side-nav .bd ul:after { clear: both; content: ""; display: block; font-size: 0; line-height: 0; visibility: hidden; }
 .jiu-side-nav .bd li { float: left; width: 50%; line-height: 24px; height: 24px;overflow: hidden;margin-bottom: 5px; }
 .jiu-side-nav .bd li a { color: #666; display: inline-block; text-decoration: none; padding: 3px 4px; line-height: 18px; border-radius: 2px; }
-.jiu-side-nav .bd li a.on, .jiu-side-nav .bd li a.on:hover { background: #ff6600; color: #FFF; }
+.jiu-side-nav .bd li a.on, .jiu-side-nav .bd li a.on:hover { background: #E02F2F; color: #FFF; }
 .jiu-side-nav .bd li a:hover { background: #f6ebde; }
 .jiu-side-nav .bd li a.out { color: #38980d; }
 .jiu-side-nav .bd li a.out:hover { text-decoration: underline; background: none; }

@@ -68,8 +68,8 @@ margin-right:5px; }
 .content-landing li .chex .ck { vertical-align:-2px; margin-right:10px; }
 .content-landing li .chex .forget { position:absolute; right:0; color:#666; }
 .content-landing li .btn { width:198px; margin-left:40px; position:relative; }
-.content-landing li .btn .sub { width:198px; height:38px; border:1px solid #e25f07; background:#ff6600; cursor:pointer; font-size:16px; color:#fff; border-radius:2px; text-shadow: 1px 1px 0 rgba(0, 0, 0, .2); }
-.content-landing li .btn .sub:hover { background:#ff7e00; }
+.content-landing li .btn .sub { width:198px; height:38px; border:1px solid #e25f07; background:#C60000; cursor:pointer; font-size:16px; color:#fff; border-radius:2px; text-shadow: 1px 1px 0 rgba(0, 0, 0, .2); }
+.content-landing li .btn .sub:hover { background:#E02F2F; }
 .login-content p { text-align:center; margin-top:40px; color:#666; }
 .content-landing LI .user span.emptyhint {color:#999;position:absolute;width: 100px;height: 38px;line-height: 38px;left: 50px;z-index: 2;}
 
