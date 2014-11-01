@@ -74,7 +74,30 @@
 
 <tr>
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErn2s1nDSrI6H2mLErI6HWEROrnRsWl3sWQLmWlBH2mqerI6HMEME1n6E6nMHCJUtPJxqrj--&e=elong&spm=1.1.1.1&t=http://travel.elong.com/hotel/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/10.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErntm1NjSrI6H2mLErByNWmbLDQLOWNwFrnRsWl3sWQLe6n3L6mLErZyH2mqE1JBb652q3QLE&e=dianping&spm=1.1.1.1&t=http://t.dianping.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/12.png"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://www.meituan.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/33.gif"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://www.lashou.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/34.gif"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://www.55tuan.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/35.jpg"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErntm6njSrI6H2mLErI6H6E2S6cLm6NWO6NBH1N3L6nUH2mqerI6H6lPwWlD7WN4HYOtSgyMhrj--&spm=1.1.1.1&t=http://www.nuomi.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/36.gif"  alt=" " border="0"/></a>
+</td>
+    
+</tr>
+
+<tr>
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
+	<a target="_blank" href="http://www.tmall.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/32.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
@@ -114,7 +137,7 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://p.yiqifa.com/n?k=NKVJDQPSrI6HWNROrI6H2mLErI6HWEzqrnRsWl3sWQLO6E6H2mqerI6H35tqWlWsW94H2L--&e=dhc&spm=1.1.1.1&t=http://www.dhc.net.cn/top/index.jsp"><img width="130px" height="40px" src="__STATIC__/images181233/shops/30.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErn2s1nDSrI6H2mLErI6HWEROrnRsWl3sWQLmWlBH2mqerI6HMEME1n6E6nMHCJUtPJxqrj--&e=elong&spm=1.1.1.1&t=http://travel.elong.com/hotel/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/10.png"  alt=" " border="0"/></a>
 </td>
 </tr>
 
@@ -132,7 +155,7 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErntm1NjSrI6H2mLErByNWmbLDQLOWNwFrnRsWl3sWQLe6n3L6mLErZyH2mqE1JBb652q3QLE&e=dianping&spm=1.1.1.1&t=http://t.dianping.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/12.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.jumei.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/13.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
