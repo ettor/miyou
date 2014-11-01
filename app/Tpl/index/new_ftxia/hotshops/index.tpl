@@ -101,12 +101,12 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<script type="text/javascript">var source="ettor";sourcesuninfo="ad-0-4-0-0-1";</script><script type="text/javascript" src="http://jsy.vanclimg.com/Public/adSearch.js"></script>
-	<a href="http://www.vancl.com?source=ettor&sourcesuninfo=ad-0-4-0-0-1" target="_blank"><img width="130px" height="40px" src="__STATIC__/images181233/shops/25.jpg" border="0" /></a>
+	<a target="_blank" href="http://p.yiqifa.com/n?k=kQMqNlBErI6HWlRe6l4H2mLErI6H2mLO6N3ernRsWl3sWQLqWltl6EBH2mqerI6H6nDm153q69MH2L--&spm=1.1.1.1&t=http://www.vmall.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/25.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.happigo.com?app=cps&cps_id=99&cps_u_id=1222-1352&url=http://www.happigo.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/17.png"  alt=" " border="0"/></a>
+	<script type="text/javascript">var source="ettor";sourcesuninfo="ad-0-4-0-0-1";</script><script type="text/javascript" src="http://jsy.vanclimg.com/Public/adSearch.js"></script>
+	<a href="http://www.vancl.com?source=ettor&sourcesuninfo=ad-0-4-0-0-1" target="_blank"><img width="130px" height="40px" src="__STATIC__/images181233/shops/25.jpg" border="0" /></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
@@ -151,7 +151,7 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.yougou.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/18.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.happigo.com?app=cps&cps_id=99&cps_u_id=1222-1352&url=http://www.happigo.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/17.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
