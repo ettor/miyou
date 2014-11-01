@@ -55,7 +55,7 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErnDe1ngH2mLErI6H2mL7WlWLrnRsWl3sWQLlWND76cqepNyb6OyHkQLErnXyME3LWNUwrIW-&spm=1.1.1.1&t=http://www.yixun.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/31.gif"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErnDe1ngH2mLErI6H2mL7WlWLrnRsWl3sWQLlWND76cqepNyb6OyHkQLErnXyME3LWNUwrIW-&spm=1.1.1.1&t=http://www.yixun.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/31.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
