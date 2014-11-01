@@ -32,11 +32,30 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.yhd.com?tracker_u=107488170&union_ref=7"><img width="130px" height="40px" src="__STATIC__/images181233/shops/1.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.amazon.cn/?_encoding=UTF8&camp=536&creative=3200&linkCode=ur2&tag=181233-23"><img width="130px" height="40px" src="__STATIC__/images181233/shops/2.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.amazon.cn/?_encoding=UTF8&camp=536&creative=3200&linkCode=ur2&tag=181233-23"><img width="130px" height="40px" src="__STATIC__/images181233/shops/2.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://union.dangdang.com/transfer.php?from=P-324801&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fwww.dangdang.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/4.png"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://www.newegg.cn?cm_mmc=CPS-_-ettor-_-ettor-_-eventcode"><img width="130px" height="40px" src="__STATIC__/images181233/shops/7.png"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://track.lefeng.com/track.jsp?aid=1958694&cid2=lefeng&url=http://www.lefeng.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/11.png"  alt=" " border="0"/></a>
+</td>
+    
+</tr>
+
+<tr>
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
+	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErntOWZLErI6H2mLErn2s6ZLm6NWO6N6H6EDmrI6HkQLErJKL1nX96JtSrJsepsKSMcL-&e=jd&spm=1.1.1.1&t=http://www.jd.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/6.png"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErnDe1ngH2mLErI6H2mL7WlWLrnRsWl3sWQLlWND76cqepNyb6OyHkQLErnXyME3LWNUwrIW-&spm=1.1.1.1&t=http://www.yixun.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/31.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
@@ -44,14 +63,18 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://union.dangdang.com/transfer.php?from=P-324801&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fwww.dangdang.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/4.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErnKO6E4H2mLErI6H2mL76nKernRsWl3sWQLS1n371QLErZyH2mLs6l37W5D7Wmq2k5VTP5eH&e=suning&spm=1.1.1.1&t=http://www.suning.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/5.png"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://www.yhd.com?tracker_u=107488170&union_ref=7"><img width="130px" height="40px" src="__STATIC__/images181233/shops/1.png"  alt=" " border="0"/></a>
 </td>
     
 </tr>
 
 <tr>
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-	<a target="_blank" href="http://track.lefeng.com/track.jsp?aid=1958694&cid2=lefeng&url=http://www.lefeng.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/11.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErn2s1nDSrI6H2mLErI6HWEROrnRsWl3sWQLmWlBH2mqerI6HMEME1n6E6nMHCJUtPJxqrj--&e=elong&spm=1.1.1.1&t=http://travel.elong.com/hotel/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/10.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
@@ -71,28 +94,6 @@
 	<a target="_blank" href="http://u.ctrip.com/union/CtripRedirect.aspx?TypeID=2&Allianceid=23358&sid=458040&OUID=&jumpUrl=http://www.ctrip.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/9.png"  alt=" " border="0"/></a>
 </td>
     
-</tr>
-
-<tr>
-<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-	<a target="_blank" href="http://www.newegg.cn?cm_mmc=CPS-_-ettor-_-ettor-_-eventcode"><img width="130px" height="40px" src="__STATIC__/images181233/shops/7.png"  alt=" " border="0"/></a>
-</td>
-
-<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErntOWZLErI6H2mLErn2s6ZLm6NWO6N6H6EDmrI6HkQLErJKL1nX96JtSrJsepsKSMcL-&e=jd&spm=1.1.1.1&t=http://www.jd.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/6.png"  alt=" " border="0"/></a>
-</td>
-
-<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErnKO6E4H2mLErI6H2mL76nKernRsWl3sWQLS1n371QLErZyH2mLs6l37W5D7Wmq2k5VTP5eH&e=suning&spm=1.1.1.1&t=http://www.suning.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/5.png"  alt=" " border="0"/></a>
-</td>
-
-<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.jumei.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/13.png"  alt=" " border="0"/></a>
-</td>
-
-<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErn2s1nDSrI6H2mLErI6HWEROrnRsWl3sWQLmWlBH2mqerI6HMEME1n6E6nMHCJUtPJxqrj--&e=elong&spm=1.1.1.1&t=http://travel.elong.com/hotel/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/10.png"  alt=" " border="0"/></a>
-</td>
 </tr>
 
 <tr>
