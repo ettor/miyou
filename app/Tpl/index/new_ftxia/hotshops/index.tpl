@@ -97,7 +97,7 @@
 
 <tr>
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-	<a target="_blank" href="http://www.tmall.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/32.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://s.click.taobao.com/t?e=m%3D2%26s%3Dj4bxRwG21oEcQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMd4ks3zcYJ3Bxq3IhSJN6GSMQE%2B7JSeMCM4ahbmcIh29kXrjqcW9dzuWVt33YDd2w6UuZxIcp9pfUIgVEmFmgnbDX0%2BHH2IEVaX4VWt66S4EJPwiig1bxLMnyi1UQ%2F17I9xSd4k%2BkojmUiXYJgFO%2BdU%3D"><img width="130px" height="40px" src="__STATIC__/images181233/shops/32.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
