@@ -25,8 +25,8 @@
 		</div>
 		<div class="bd">
 			<ul class="bd-other">
-				<li><a href="{:U('jiu/index')}" >九块九</a></li>
-				<li><a href="{:U('shijiu/index')}" >十九块九</a></li>
+<!--  				<li><a href="{:U('jiu/index')}" >九块九</a></li>
+				<li><a href="{:U('shijiu/index')}" >十九块九</a></li> -->
 				<li><a href="{:U('zhidemai/index')}" >值得买</a></li>
 			</ul>
 		</div>
