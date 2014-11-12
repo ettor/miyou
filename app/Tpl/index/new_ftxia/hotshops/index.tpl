@@ -74,30 +74,30 @@
 
 <tr>
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErntm1NjSrI6H2mLErByNWmbLDQLOWNwFrnRsWl3sWQLe6n3L6mLErZyH2mqE1JBb652q3QLE&e=dianping&spm=1.1.1.1&t=http://t.dianping.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/12.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://temai.taobao.com/event884.htm?q=LdHraEu3gke7QfSPPGeGaagqV1MpPcvvy6wMuOrQIjbNOqZMhB5pHVnFGWZjX0lLl9oQbBi%2FUbM%3D"><img width="130px" height="40px" src="__STATIC__/images181233/shops/54.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.meituan.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/33.gif"  alt=" " border="0"/></a>
+	<a href="http://s.click.taobao.com/t?e=m%3D2%26s%3DSi6yTu0%2BPkEcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAgCIVe1TF%2FK6oWYuQlIDWi8kc%2BJkkjZadETqffRqk7Ya%2FdjV5WMprCpdv8yZZUWx%2Feo0BcZWWIRYYA%2FDpPH01wK9AmARIwX9K%2BAjBDXvuqoU47FHjfsActnIQu5PdXpojKJn5AyUbPoV" target="_blank"><img width="130px" height="40px" src="__STATIC__/images181233/shops/52.jpg" border="0" /></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.lashou.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/34.gif"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://ai.taobao.com?pid=mm_96416444_7384055_24534255"><img width="130px" height="40px" src="__STATIC__/images181233/shops/53.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://www.55tuan.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/35.jpg"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://www.tmall.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/32.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErntm6njSrI6H2mLErI6H6E2S6cLm6NWO6NBH1N3L6nUH2mqerI6H6lPwWlD7WN4HYOtSgyMhrj--&spm=1.1.1.1&t=http://www.nuomi.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/36.gif"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://temai.taobao.com/event989.htm?q=kySS%2F%2BrY3pG7QfSPPGeGaagqV1MpPcvvy6wMuOrQIjbNOqZMhB5pHVnFGWZjX0lLA4OOSJ54QuA%3D"><img width="130px" height="40px" src="__STATIC__/images181233/shops/51.png"  alt=" " border="0"/></a>
 </td>
     
 </tr>
 
 <tr>
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-	<a target="_blank" href="http://s.click.taobao.com/t?e=m%3D2%26s%3Dj4bxRwG21oEcQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMd4ks3zcYJ3Bxq3IhSJN6GSMQE%2B7JSeMCM4ahbmcIh29kXrjqcW9dzuWVt33YDd2w6UuZxIcp9pfUIgVEmFmgnbDX0%2BHH2IEVaX4VWt66S4EJPwiig1bxLMnyi1UQ%2F17I9xSd4k%2BkojmUiXYJgFO%2BdU%3D"><img width="130px" height="40px" src="__STATIC__/images181233/shops/32.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://s.click.taobao.com/t?e=m%3D2%26s%3Dvn1ALklI%2FM0cQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAlwUt2tU96bpUnkorgY6vsAkc%2BJkkjZadETqffRqk7Ya%2FdjV5WMprCpdv8yZZUWx%2FX7uq6sLYIqu0Q7QOybCaQy9AmARIwX9K9E0MBlxnM%2FDnaYpFBIfC%2F2orLd93QuCUMYOae24fhW0"><img width="130px" height="40px" src="__STATIC__/images181233/shops/55.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
@@ -125,7 +125,7 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErntFWnDSrI6H2mLErJyE69xe6ZLOWljsrnRsWl3sWQLqWnj76NMH2mqerI6H6O2SWl3O3lUH2L--&e=camel&spm=1.1.1.1&t=http://www.camel.com.cn"><img width="130px" height="40px" src="__STATIC__/images181233/shops/27.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://s.click.taobao.com/t?e=m%3D2%26s%3D%2FmxdO5dlrZEcQipKwQzePDAVflQIoZepK7Vc7tFgwiFRAdhuF14FMXr3EvdBKC2ft4hWD5k2kjOMQE%2B7JSeMCM4ahbmcIh2959EfkbLHXGzmnLsaTxtWtsP1ZR0GpJnB"><img width="130px" height="40px" src="__STATIC__/images181233/shops/27.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
@@ -159,7 +159,7 @@
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
-	<a target="_blank" href="http://p.yiqifa.com/n?k=PNPWkBUIrI6HWN3m1n4H2mLErI6H2mLOWnzlrnRsWl3sWQLeWnKsWcLErZyH2mLs3lz7MJKm6ZLE&e=handu&spm=1.1.1.1&t=http://www.handu.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/20.jpg"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://s.click.taobao.com/t?e=m%3D2%26s%3DGMu8NEFniIYcQipKwQzePDAVflQIoZepK7Vc7tFgwiFRAdhuF14FMXLP%2BacZ5uwnxq3IhSJN6GSMQE%2B7JSeMCM4ahbmcIh2959EfkbLHXGyGDBIl7qUFBdEew1By%2BI5k"><img width="130px" height="40px" src="__STATIC__/images181233/shops/20.jpg"  alt=" " border="0"/></a>
 </td>
     
 </tr>
@@ -183,6 +183,29 @@
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
 	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErntO6l2SrI6H2mLErnUFWOgKYQLs6lDLrnRsWl3sWQLFWn2q6ZLErZyH2mq9WNtmWOgyWmLE&e=lvmama&spm=1.1.1.1&t=http://www.lvmama.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/14.png"  alt=" " border="0"/></a>
+</td>
+    
+</tr>
+
+<tr>
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
+	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErntm1NjSrI6H2mLErByNWmbLDQLOWNwFrnRsWl3sWQLe6n3L6mLErZyH2mqE1JBb652q3QLE&e=dianping&spm=1.1.1.1&t=http://t.dianping.com"><img width="130px" height="40px" src="__STATIC__/images181233/shops/12.png"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://www.meituan.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/33.gif"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://www.lashou.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/34.gif"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://www.55tuan.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/35.jpg"  alt=" " border="0"/></a>
+</td>
+
+<td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+	<a target="_blank" href="http://p.yiqifa.com/n?k=2mLErntm6njSrI6H2mLErI6H6E2S6cLm6NWO6NBH1N3L6nUH2mqerI6H6lPwWlD7WN4HYOtSgyMhrj--&spm=1.1.1.1&t=http://www.nuomi.com/"><img width="130px" height="40px" src="__STATIC__/images181233/shops/36.gif"  alt=" " border="0"/></a>
 </td>
     
 </tr>
