@@ -121,7 +121,7 @@
 
 <tr>
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-	<a target="_blank" href="http://temai.taobao.com/event989.htm?q=kySS%2F%2BrY3pG7QfSPPGeGaagqV1MpPcvvy6wMuOrQIjbNOqZMhB5pHVnFGWZjX0lLA4OOSJ54QuA%3D"><img width="130px" height="40px" src="__STATIC__/images181233/shops/51.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://ai.taobao.com/search/index.htm?fcat=50102996&key=女装&pid=mm_96416444_7384055_27616886"><img width="130px" height="40px" src="__STATIC__/images181233/shops/51.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
