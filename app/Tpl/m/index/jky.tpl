@@ -14,11 +14,11 @@
 			$("img.lazy").lazyload();
 		})
 	</script>
-        <title>触屏版</title>
+        <title>哈哈特卖-触屏版</title>
     </head>
 <body id="index">
 <div class="header">
-        <a class="logo" href="/"><span>全场九块九包邮<br>华美网络提供</span></a>
+        <a class="logo" href="/"><span>天天九块九<br>哈哈特卖网</span></a>
         <div class="nav">
             <a href="{:U('classfiy/index')}" class="filter">筛 选</a>
         </div>
