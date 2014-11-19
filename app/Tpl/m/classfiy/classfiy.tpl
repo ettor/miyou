@@ -7,7 +7,7 @@
         <link rel="shortcut icon" type="image/x-icon" href="http://www.jiukuaiyou.com/favicon.ico" media="screen" />
         <link href="http://s.juancdn.com/jky/wap/css/base.css?t=201305171649" rel="stylesheet" type="text/css" />
         <link href="http://s.juancdn.com/jky/wap/css/index.css?t=201305171649" rel="stylesheet" type="text/css" />
-        <title>秒杀网触屏版</title>
+        <title>哈哈特卖-触屏版</title>
     </head>
 <body id="filter">
     <div class="header">
