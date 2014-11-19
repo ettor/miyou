@@ -121,5 +121,11 @@
     <div class="copyright"><span class="copyright">&copy;2014 {:C('ftx_site_name')}</span><p></p></div>
 </div>
   
+  <script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fba217f9043e18bffe8a495d14f31aadc' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
 </body>
 </html>
