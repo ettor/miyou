@@ -23,6 +23,71 @@
             <a href="{:U('classfiy/index')}" class="filter">筛 选</a>
         </div>
     </div>
+	<div>
+	<table>
+		<tr>
+
+		<td style="height:15px;width:25%;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
+			<a target="_blank" href="http://click.union.vip.com/redirect.php?url=eyJkZXN0dXJsIjoiaHR0cDpcL1wvd3d3LnZpcC5jb20iLCJ1Y29kZSI6ImszcGdyanZmIiwic2NoZW1lY29kZSI6ImY1YTA1ZDY2In0="><img width="100%" height="35px" src="__STATIC__/images181233/shops/8.png"  alt=" " border="0"/></a>
+		</td>
+
+		<td style="height:15px;width:25%;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+			<a target="_blank" href="http://www.amazon.cn/?_encoding=UTF8&camp=536&creative=3200&linkCode=ur2&tag=181233-23"><img width="100%" height="35px" src="__STATIC__/images181233/shops/2.png"  alt=" " border="0"/></a>
+		</td>
+
+		<td style="height:15px;width:25%;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+			<a target="_blank" href="http://union.dangdang.com/transfer.php?from=P-324801&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fwww.dangdang.com"><img width="100%" height="35px" src="__STATIC__/images181233/shops/4.png"  alt=" " border="0"/></a>
+		</td>
+
+		<td style="height:15px;width:25%;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+			<a target="_blank" href="http://union.click.jd.com/jdc?e=&p=AyIBZRprFDJWWA1FBCVbV0IUEEULRFRBSkAOClBMW0srBEtHU1oFUwNAMhM3VRJZEwAXBVIfayVjYDc%3D&t=W1dCFBBFC0RUQUpADgpQTFtL"><img width="100%" height="35px" src="__STATIC__/images181233/shops/6.png"  alt=" " border="0"/></a>
+		</td>
+			
+		</tr>
+
+		<tr>
+		
+		<td style="height:15px;width:25%;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
+			<a target="_blank" href="http://temai.taobao.com/event884.htm?q=LdHraEu3gke7QfSPPGeGaagqV1MpPcvvy6wMuOrQIjbNOqZMhB5pHVnFGWZjX0lLl9oQbBi%2FUbM%3D"><img width="100%" height="35px" src="__STATIC__/images181233/shops/54.png"  alt=" " border="0"/></a>
+		</td>
+
+		<td style="height:15px;width:25%;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+			<a href="http://s.click.taobao.com/t?e=m%3D2%26s%3DSi6yTu0%2BPkEcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAgCIVe1TF%2FK6oWYuQlIDWi8kc%2BJkkjZadETqffRqk7Ya%2FdjV5WMprCpdv8yZZUWx%2Feo0BcZWWIRYYA%2FDpPH01wK9AmARIwX9K%2BAjBDXvuqoU47FHjfsActnIQu5PdXpojKJn5AyUbPoV" target="_blank"><img width="100%" height="35px" src="__STATIC__/images181233/shops/52.jpg" border="0" /></a>
+		</td>
+
+		<td style="height:15px;width:25%;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+			<a target="_blank" href="http://ai.taobao.com/search/index.htm?fcat=50102996&key=女装&pid=mm_96416444_7384055_27616886"><img width="100%" height="35px" src="__STATIC__/images181233/shops/51.png"  alt=" " border="0"/></a>
+		</td>
+		
+		<td style="height:15px;width:25%;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+			<a target="_blank" href="http://www.tmall.com"><img width="100%" height="35px" src="__STATIC__/images181233/shops/32.png"  alt=" " border="0"/></a>
+		</td>
+
+		</tr>
+
+		
+		<tr>
+
+		<td style="height:15px;width:25%;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
+			<a target="_blank" href="http://cps.gome.com.cn/home/JoinUnion?sid=4574&wid=5783&feedback=国美首页&to=http://www.gome.com.cn"><img width="100%" height="35px" src="__STATIC__/images181233/shops/3.jpg"  alt=" " border="0"/></a>
+		</td>
+		
+		
+		<td style="height:15px;width:25%;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+			<a target="_blank" href="http://www.yhd.com?tracker_u=107488170&union_ref=7"><img width="100%" height="35px" src="__STATIC__/images181233/shops/1.png"  alt=" " border="0"/></a>
+		</td>
+
+		<td style="height:15px;width:25%;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+			<a target="_blank" href="http://www.jumei.com"><img width="100%" height="35px" src="__STATIC__/images181233/shops/13.png"  alt=" " border="0"/></a>
+		</td>
+
+		<td style="height:15px;width:25%;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
+			<a target="_blank" href="http://ai.taobao.com?pid=mm_96416444_7384055_24534255"><img width="100%" height="35px" src="__STATIC__/images181233/shops/53.png"  alt=" " border="0"/></a>
+		</td>
+
+		</tr>
+	</table>
+	</div>
     <div class="current-category">
         您所在的分类：全部
                 </div>

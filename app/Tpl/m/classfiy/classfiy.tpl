@@ -44,7 +44,7 @@
             <li><a href="/">首页</a></li>
             <li class="no-border"><a href="/"> PC版</a></li>
         </ul></div>
-    <div class="copyright"><span class="copyright">&copy;2014华美网络</span><p></p></div>
+    <div class="copyright"><span class="copyright">&copy;2014 {:C('ftx_site_name')}</span><p></p></div>
 </div>
   
 </body>
