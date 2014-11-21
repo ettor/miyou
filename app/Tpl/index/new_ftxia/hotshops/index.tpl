@@ -74,7 +74,7 @@
 
 <tr>
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-	<a target="_blank" href="http://temai.taobao.com/event884.htm?q=LdHraEu3gke7QfSPPGeGaagqV1MpPcvvy6wMuOrQIjbNOqZMhB5pHVnFGWZjX0lLl9oQbBi%2FUbM%3D"><img width="130px" height="40px" src="__STATIC__/images181233/shops/54.png"  alt=" " border="0"/></a>
+	<a target="_blank" href="http://temai.taobao.com/event587.htm?q=Dn7BhFxpB6C7QfSPPGeGaagqV1MpPcvvy6wMuOrQIjbNOqZMhB5pHVnFGWZjX0lLPYBEBgzUHVk%3D"><img width="130px" height="40px" src="__STATIC__/images181233/shops/54.png"  alt=" " border="0"/></a>
 </td>
 
 <td style="height:70px;width:180px;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
