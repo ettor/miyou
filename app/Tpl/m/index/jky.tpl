@@ -48,7 +48,7 @@
 		<tr>
 		
 		<td style="height:15px;width:25%;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF">
-			<a target="_blank" href="http://temai.taobao.com/event1047.htm?q=UhZoN0I%2BWye7QfSPPGeGaagqV1MpPcvvy6wMuOrQIjbNOqZMhB5pHVnFGWZjX0lLrR6HOfFMSmc%3D"><img width="100%" height="35px" src="__STATIC__/images181233/shops/54.png"  alt=" " border="0"/></a>
+			<a target="_blank" href="http://temai.taobao.com/event1631.htm?q=ZE2m1TIgsF27QfSPPGeGaagqV1MpPcvvy6wMuOrQIjbNOqZMhB5pHVnFGWZjX0lLgOYebHmxVig%3D"><img width="100%" height="35px" src="__STATIC__/images181233/shops/54.png"  alt=" " border="0"/></a>
 		</td>
 
 		<td style="height:15px;width:25%;text-align:center;vertical-align:middle;background-color:#FFF;border:1px solid #DFDFDF;margin-left:15px;">
