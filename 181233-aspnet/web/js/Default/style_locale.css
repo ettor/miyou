@@ -1,0 +1,135 @@
+body,.button,input[type=submit],#contact form>p,.post-body form>p,#contact form label,.post-body form label,#contact form button,.post-body form button,#contact form input[type=submit],.post-body form input[type=submit],.time-stamp,#redbar p a,.h1,.h2,.h3,.h4,.pullquote,#header .body-search-header,#footer-feed,#footer-feed h5,#footer-language h5,#after-footer #footer-legal,.post .h2,.post-mini .h2,.post .info,.post-mini .info,.newsletter p,.newsletter p strong,.newsletter h5,.newsletter input,.newsletter input.button{font-family: "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "Hiragino Sans GB", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;letter-spacing: 1px;}
+
+.post-pagination li,.perm .header .byline,.perm .post-body,.perm .post-gallery,.perm .post-gallery .title,.perm .post-meta,.perm #toc,.perm #toc li.active,.copy .event-datetime,.copy .event-link,.copy .table,#pr_box_button,.pr_box_button,#carousel ul li a .headline,.tab-nav li,#nav li,.query .query-input,.site-tools a,.language,.about h2,.editors p,.editors .mug .mug-title,.editors .mug .mug-name a,.editor .page-header .mug-title,.editor .mug h2,.editor .mug .gadgets li h3,.gift-guide .post-body p,.item-grid .item h4,.item-grid .you-might-like h5,#comments{font-family: "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "Hiragino Sans GB", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;letter-spacing: 1px;}
+
+.review-card h4,.review-card .review-company,.review-card .review-price,.review-card .review-product,.gallery-listing .gallery .photo-count,.knot-slideshow .aol-knot-slide-info .aol-knot-slide-title,.knot-slideshow .aol-knot-slide-info .aol-knot-slide-caption,.poll caption,.poll td,.ASLcontainer,.ASLcontainer span,.post-saga,.expand-banner p,.expand-banner .button,#search .gsc-control-cse,#search .gsc-control-cse .gsc-table-result,.about p,.vert-excerpts .excerpt .exc-header .exc-date,#comments *{font-family: "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "Hiragino Sans GB", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;letter-spacing: 1px;}
+
+.gallery-listing .gallery .gall-header h3,.video-listing .video .vid-header h3,#footer-feed a,#footer-like a,#footer-feed h5,#footer-like h5,.perm .postnav,.post .meta-gallery h4,.post .post-body,.post .post-meta,#rail .module .hed,.rail-latest .feature .meta .livefyre-commentcount,.rail-latest .feature .feature-title{font-family: "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "Hiragino Sans GB", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;letter-spacing: 1px;}
+
+
+#header #logo {margin-right: 30px;}
+#header #logo .edition {right: -18px;bottom:8px;}
+.review-card{height:auto;}
+#categories-modal.no-sponsors, .no-sponsors .categories-modal-right{height:auto;}
+.category-columns{width:auto;float:none;}
+.category-columns ul li{float:left;margin-right:1%;width:19%;}
+.no-sponsors .categories-modal-right {width: 100%;padding: 0 0 17px 0;}
+#dropdown-more{left:40%;}
+.editor .page-header .mug-title{line-height:35px;}
+#footer-legal{padding-bottom:60px;}
+@media only screen and (min-width: 768px) {
+	#footer-like .linkage {width:19%;margin-right:1%;}
+	#carousel ul li.big a .headline .title{line-height:56px;font-size:32px;}
+	.post .meta-gallery{margin-top:20px;}
+	.post .post-body{font-size:15px;}
+	.rail-latest .feature .feature-title{line-height:21px;}
+	#footer-legal{padding-bottom:0;}
+}
+
+@media only screen and (min-width: 980px){
+	.perm .post-body{font-size:15px;}
+	#after-footer #footer-language {width:356px;margin-right: 24px;}
+	#after-footer #footer-legal {width: 600px;}
+	.perm.fullbleed #comments{min-height:50px;}
+}
+.rail-latest .feature .feature-image{display:block;margin-bottom:10px;}
+.time-stamp{text-transform:uppercase;}
+
+.modCustom{background-color:#F4F4F4;}
+.modCustom .hed {color: #FFF;font-size: 14px;font-weight: 400;line-height: 1;margin: 0px;padding:5px 8px;background: #39C;}
+.modCustom .feature{position: relative;overflow: hidden;margin-bottom: 10px;border-bottom: solid 1px #fff;padding: 10px 10px 0 10px;}
+.modCustom .feature a {color: #333;font-weight: 400;}
+.modCustom .feature .meta {font-size: 11.7px;line-height: 1;position: relative;margin-bottom: 5px;overflow: hidden;width: 100%;}
+.modCustom .feature .meta .comment-count {display: block;float: right;padding: 7px 10px;}
+
+.post-mini {border-bottom: 1px dotted #C2C2C2;margin:0 0 5px;padding: 0 0 10px;overflow: hidden;height:65px;}
+.post-mini-comments{height:auto;}
+.post-mini.post-mini-comments .top{padding-left:0;}
+.page-header{margin-bottom:10px;}
+#profile_comments .quotes{color:#ccc;font-size: 24px;line-height: 30px;}
+#search .gsc-wrapper .gsc-resultsbox-visible .gsc-resultsRoot .gsc-results .gsc-expansionArea .gsc-cursor-box .gsc-cursor-page{background: #39C;}
+#search .gsc-wrapper .gsc-resultsbox-visible .gsc-resultsRoot .gsc-results .gsc-expansionArea .gsc-cursor-box .gsc-cursor-current-page {background: #FFF;color: #39C;}
+
+#after-footer{padding-bottom: 120px;}
+
+#cmttabs{background:url(http://www.blogsmithmedia.com/cn.engadget.com/media/cmttabs-bg.gif) repeat-x 0 0;height:42px}
+#cmttabs ul{list-style:none;margin:0;padding:0}
+#cmttabs li{background:url(http://www.blogsmithmedia.com/cn.engadget.com/media/cmttab-divider.gif) no-repeat right center;float:left;margin:0}
+#cmttabs li a{display:block;line-height:41px;text-decoration:none;color:#999;font-weight:700;padding:0 15px}
+#cmttabs li.currenttab a,#cmttabs li a:hover{background:url(http://www.blogsmithmedia.com/cn.engadget.com/media/cmttab-on.gif) no-repeat center bottom;color:#000}
+#cmttabs li#cmtutab_sns{height:42px;background:url('http://www.blogsmithmedia.com/cn.engadget.com/media/Logo_AIM.png') no-repeat 30% 30%;}
+#cmttabs li#cmtutab_sns a{height:41px;text-indent:-9000px;width:60px}
+.cmtuinfo{clear:left;border-bottom:1px dotted #cecece;margin-bottom:10px;padding:10px 15px}
+.cmtuinfo .instructions{color:#444;font-size:13px;font-weight:700;margin:0 0 .7em}
+.cmtuinfo label{font-weight:700;display:block;float:left}
+.cmtuinfo input{background:#eee;width:160px;margin-right:8px}
+#cmtmain{clear:both;padding:10px}
+#cmtmain div{padding:5px}
+#commentform{background:#fff;display:block;border:1px solid #ddd;margin-bottom:10px;border-top:0}
+.cmtuinfo input,#cmtmain textarea{border:1px solid #eee;border-top-color:#bbb;border-left-color:#bbb;padding:3px}
+.cmtuinfo input:focus,#cmtmain textarea:focus{background:#e3f2df}
+input#sns_screenname, input#sns_password {float: left;margin-left: 5px;}
+div#formerrors {padding: 15px 15px 0;color: #F00;}
+#formerrors p {margin: 5px 0 0 0;}
+#cmtmain .cmtchecks{padding:6px 5px 0}
+#cmtmain .cmtchecks label{font-weight:400}
+#cmtmain .cmtchecks input{margin:0 5px 0 0}
+#cmtmain textarea{background:#eee;margin-top:5px}
+#cmtbuttons input{margin-top: 1em;background-color: #39C;color: #FFF;border: #F0EEEE 2px solid;padding: 10px 50px !important;}
+#instructions{border-top:1px dotted #cecece;margin-top:1em;padding:15px}
+#instructions p{color:#777;line-height:1.2em;margin:0 0 .7em}
+#instructions .preamble{color:#000;font-size:1.1em;line-height:1.1em}
+.comments{position:relative;font-size:1.1em}
+/* .comments #cmt_sub_link{background:url(http://www.blogsmithmedia.com/cn.engadget.com/media/icon-feed-gray4.gif) no-repeat 0 2px;padding-left:16px;position:absolute;right:0;top:0}
+.comments #cmt_sub_link:hover{background-position:0 -66px;background-color:#0aa7d6;color:#fff} */
+h2#readercomments{font-size:1.5em;margin:10px 0 5px}
+h2#readercomments span{font-size:.8em}
+.comment_thread h2#readercomments{border-bottom:0}
+.comments .cmt_tools{float:right;width:72px;margin:3px 0 0 5px}
+* html #comments .cmt_tools{height:1%;z-index:9999;position:absolute;top:0;right:0;margin-right:0}
+.comments .cmt_tools a{background:transparent!important;height:23px;width:23px;display:block;float:left;margin-right:1px}
+.cmt_label{float:right;font-size:.9em;margin:3px 0 0 3px}
+* html .cmt_label{position:absolute;right:60px;top:0}
+.label_level0,.label_level1{color:#8B0000}
+.label_level2{color:#444}
+.label_level3,.label_level4,.label_level5{color:#268c57}
+.cmt_reply_show a{display:block;text-align:right;background:#f5f5f5;float:right;border:1px solid #eee;background-color:#fff;font-weight:700;font-size:11px;margin:0 4px 4px 0;padding:0 6px 1px}
+.comments h4{font-size:1em;clear:none;margin:.7em 0 0 80px;padding:0 5px 0 0}
+.comments h4 span.cmt_time{color:#999;display:inline}
+.comments h4 span.cmt_time a{color:#aaa;font-weight:400}
+p.cmt_contents{min-height:47px;line-height:1.3em;margin:.3em 0 .3em 80px;padding:0}
+* html p.cmt_contents{height:47px}
+.commentclass1,.commentclass2{background:#f5f5f5;border:1px solid #eee;overflow:hidden;position:relative;margin:5px 0;padding: 5px;box-shadow: #CCC 1px 1px 2px;}
+* html .commentclass1,* html .commentclass2{width:100%}
+.replies_inline,.child{margin-left:33px;background:#fff url(http://www.blogsmithmedia.com/cn.engadget.com/media/stripe.gif);border-color:#eee}
+* html .replies_inline,* html .child{margin-left:5%;width:92%;float:right;clear:both}
+.child p.cmt_contents{min-height:21px;margin-left:48px}
+* html .child p.cmt_contents{height:21px}
+.comments .child h4{margin-left:48px}
+.cmt_paging{padding:5px 0}
+#cmt_paging ul {margin: 0;padding: 5px 0;float:right;}
+#cmt_paging ul li {float: left;list-style: none;padding: 5px 8px;margin: 0 0 0 5px;background-color: #39C;line-height: 13px;color: #000;font-size: 11px;border-radius: 2px;}
+#cmt_paging ul li a {display: block;color: #FFF;}
+#thankYou *{margin:0;padding:0}
+#thankYou{background:#ffc;margin:.5em 0 2em;padding:1.4em}
+.comment_thread .child{margin-left:10px}
+.votedComment .cmt_tools{background:url(http://www.blogsmithmedia.com/cn.engadget.com/media/voted.gif) 0 1px no-repeat;width:54px;height:16px}
+.level0{filter:alpha(opacity=20);opacity:.2;-moz-opacity:.2}
+.level1{filter:alpha(opacity=40);opacity:.4;-moz-opacity:.4}
+.level2{filter:alpha(opacity=80);opacity:.8;-moz-opacity:.8}
+.level3{filter:alpha(opacity=90);opacity:.9;-moz-opacity:.9}
+.level4{color:#333}
+.level5{color:#333;border-color:#197a30!important}
+.reportedComment h4{background:#eee}
+.avatar{position:absolute;top:5px;left:5px;display:block;width:64px;height:64px;float:left;border:1px solid #ccc;background:#FFF;font-size:9px;line-height:1em;margin:3px 10px 0 3px;padding:2px}
+.avatar a img{border:0}
+.cmt_time{clear:right;display:block;font-size:.9em}
+#cmtmain label,#replyindicator{font-weight:700}
+.votedComment .cmt_tools a,.reportedComment .cmt_tools,.reportedComment .cmt_contents,.reportedComment .cmt_reply_show,.reportedComment .cmt_reference,.reportedComment .cmt_label{display:none}
+.child .avatar,.child .avatar img{width:32px;height:32px}
+
+
+/**** IE *****/
+.ie8 #carousel ul li.big .headline,.ie9 #carousel ul li.big .headline{filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0, StartColorStr='#000000', EndColorStr='#1d1d1d')}
+.ie8 #carousel ul li.big a .headline .title,.ie9 #carousel ul li.big a .headline .title{font-size:20px;line-height:30px;}
+/**** IE *****/
