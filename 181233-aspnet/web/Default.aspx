@@ -30,7 +30,7 @@ TagPrefix="uc2" %>
     <uc1:Header ID="Head1" runat="server" />
     <div class="aside container breaking" id="redbar" style="margin-bottom:2px;">
             <p>
-                <a href="Modules/ChongZhi.aspx">
+                <a href="Modules/ChongZhi.aspx" target="_blank">
                     <i class="s-thunder-redbar">
                     </i>
                     <strong>
