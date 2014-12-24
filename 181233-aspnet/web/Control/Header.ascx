@@ -66,7 +66,7 @@
             </div>
         </header>
         
-        <div class="aside container breaking" id="redbar" style="margin-bottom:2px; display:none">
+        <%--<div class="aside container breaking" id="redbar" style="margin-bottom:2px; display:none">
             <p>
                 <a href="/Default.aspx">
                     <i class="s-thunder-redbar">
@@ -77,5 +77,5 @@
                     哈哈特卖。。。
                 </a>
             </p>
-        </div>
+        </div>--%>
     </div>

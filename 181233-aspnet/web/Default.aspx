@@ -28,6 +28,18 @@ TagPrefix="uc2" %>
     </iframe>
     <!-- Page header -->
     <uc1:Header ID="Head1" runat="server" />
+    <div class="aside container breaking" id="redbar" style="margin-bottom:2px;">
+            <p>
+                <a href="Modules/ChongZhi.aspx">
+                    <i class="s-thunder-redbar">
+                    </i>
+                    <strong>
+                        充话费赢免单:
+                    </strong>
+                    <span style="font-size:13px;">2014年12月24日-2014年12月31日，在哈哈特卖网充话费满100元，即有机会赢得免单机会，赶快去充值吧！</span>
+                </a>
+            </p>
+        </div>
     <!-- Page wrapper -->
     <div id="page" class="container">
         <div style="position:relative; margin-top:2px;">
