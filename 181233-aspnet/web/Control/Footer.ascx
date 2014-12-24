@@ -18,7 +18,10 @@
     <link rel="stylesheet" href="../js/Default/style2.css">
 
     <div class="bottom xhx footer" style=""><div>
-        <p>友情链接：<a href="http://ai.taobao.com/?pid=mm_96416444_7384055_24534255" style="color:Blue" target="_blank">爱淘宝</a>
-        <a href="http://www.paidai.com/" style="color:Blue" target="_blank">派代网</a></p>
+        <p>友情链接：
+        <a href="http://ai.taobao.com/?pid=mm_96416444_7384055_24534255" style="color:Blue" target="_blank">爱淘宝</a>
+        <a href="http://www.paidai.com/" style="color:Blue" target="_blank">派代网</a>
+        <a href="http://181233.com/Modules/AliyunPage.aspx" style="color:Blue" target="_blank">阿里云</a>
+        </p>
         <p>Copyright © 2014 哈哈特卖网 鲁ICP备13012936号-2</div>
     </div>
