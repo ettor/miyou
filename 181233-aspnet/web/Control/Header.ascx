@@ -47,6 +47,11 @@
                                     </a>
                                 </li>
                                 <li class="news">
+                                    <a class="item" href="/Modules/NongXianGou.aspx">
+                                        农鲜购
+                                    </a>
+                                </li>
+                                <li class="news">
                                     <a class="item" href="/Modules/ChongZhi.aspx">
                                         话费充值
                                     </a>
