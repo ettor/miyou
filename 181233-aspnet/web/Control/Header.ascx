@@ -46,11 +46,11 @@
                                         首页
                                     </a>
                                 </li>
-                                <li class="news">
+<%--                                <li class="news">
                                     <a class="item" href="/Modules/NongXianGou.aspx">
                                         农鲜购
                                     </a>
-                                </li>
+                                </li>--%>
                                 <li class="news">
                                     <a class="item" href="/Modules/ChongZhi.aspx">
                                         话费充值
