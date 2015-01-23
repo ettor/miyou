@@ -30,13 +30,13 @@ TagPrefix="uc2" %>
     <uc1:Header ID="Head1" runat="server" />
     <div class="aside container breaking" id="redbar" style="margin-bottom:2px;">
             <p>
-                <a href="Modules/ChongZhi.aspx" target="_blank">
+                <a href="Documents/淘宝联盟最全年货大促.xls" target="_blank">
                     <i class="s-thunder-redbar">
                     </i>
                     <strong>
-                        充话费赢免单:
+                        立即下载:
                     </strong>
-                    <span style="font-size:13px;">2015年1月1日-2015年1月31日，在哈哈特卖网充话费满100元，即有机会赢得免单机会，赶快去充值吧！</span>
+                    <span style="font-size:13px;"><strong>淘宝联盟最全年货大促.xls</strong></span>
                 </a>
             </p>
         </div>
