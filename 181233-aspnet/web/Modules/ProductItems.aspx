@@ -33,10 +33,49 @@ TagPrefix="uc2" %>
     <div id="page" class="container">
         <div style="position:relative; margin-top:2px; height:480px">
             <div style="margin-top:10px;">
-                <a style="color:Red" href="http://union.dangdang.com/transfer.php?from=P-324801&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F1097184211.html%3Fref%3Dt-176417-3031_3-1169944-0" target="_blank">Mr.P可爱小恐龙2-3-6岁幼儿园书包 宝宝背包男韩版女孩减负卡通儿童双肩包</a>
+                <a style="color:Red" href="http://union.dangdang.com/transfer.php?from=P-324801&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F23522235.html" target="_blank">aaaa</a>
             </div>
             <div style="margin-top:10px;">
-                <a style="color:Red" href="http://union.dangdang.com/transfer.php?from=P-324801&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F1108612329.html%3Fref%3Dt-176417-3031_3-1169944-4" target="_blank">特宝儿 婴儿学步车超静音 送积木 宝宝学步手推车婴儿学步玩具</a>
+                <a style="color:Red" href="http://union.dangdang.com/transfer.php?from=P-324801&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F23605520.html" target="_blank">aaaa</a>
+            </div>
+            <div style="margin-top:10px;">
+                <a style="color:Red" href="http://union.dangdang.com/transfer.php?from=P-324801&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F23395270.html" target="_blank">aaaa</a>
+            </div>
+            <div style="margin-top:10px;">
+                <a style="color:Red" href="http://union.dangdang.com/transfer.php?from=P-324801&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F20630373.html" target="_blank">aaaa</a>
+            </div>
+            <div style="margin-top:10px;">
+                <a style="color:Red" href="http://union.dangdang.com/transfer.php?from=P-324801&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F20645643.html" target="_blank">aaaa</a>
+            </div>
+            <div style="margin-top:10px;">
+                <a style="color:Red" href="http://union.dangdang.com/transfer.php?from=P-324801&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F22698574.html" target="_blank">aaaa</a>
+            </div>
+            <div style="margin-top:10px;">
+                <a style="color:Red" href="http://union.dangdang.com/transfer.php?from=P-324801&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F23368761.html" target="_blank">aaaa</a>
+            </div>
+            <div style="margin-top:10px;">
+                <a style="color:Red" href="http://union.dangdang.com/transfer.php?from=P-324801&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F23486631.html" target="_blank">aaaa</a>
+            </div>
+            <div style="margin-top:10px;">
+                <a style="color:Red" href="http://union.dangdang.com/transfer.php?from=P-324801&ad_type=10&sys_id=1&backurl=http%3A%2F%2Fproduct.dangdang.com%2F23384423.html" target="_blank">aaaa</a>
+            </div>
+            <div style="margin-top:10px;">
+                <a style="color:Red" href="1111111" target="_blank">temp</a>
+            </div>
+            <div style="margin-top:10px;">
+                <a style="color:Red" href="1111111" target="_blank">temp</a>
+            </div>
+            <div style="margin-top:10px;">
+                <a style="color:Red" href="1111111" target="_blank">temp</a>
+            </div>
+            <div style="margin-top:10px;">
+                <a style="color:Red" href="1111111" target="_blank">temp</a>
+            </div>
+            <div style="margin-top:10px;">
+                <a style="color:Red" href="1111111" target="_blank">temp</a>
+            </div>
+            <div style="margin-top:10px;">
+                <a style="color:Red" href="1111111" target="_blank">temp</a>
             </div>
         </div>
     </div>
