@@ -56,6 +56,11 @@
                                         话费充值
                                     </a>
                                 </li>
+                                <li class="news">
+                                    <a class="item" href="/Modules/Games/Game.aspx">
+                                        小游戏
+                                    </a>
+                                </li>
                                <%-- <li class="reviews">
                                     <a class="item " href="/Default.aspx" id="reviews-link">
                                         分类浏览
