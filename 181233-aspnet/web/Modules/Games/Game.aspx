@@ -1,11 +1,15 @@
-﻿<!DOCTYPE html>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Game.aspx.cs" Inherits="Modules_Games_Game" %>
 
-<!DOCTYPE html PUBLIC "" "">
+<%@ Register Src="../../Control/Header.ascx" TagName="Header" TagPrefix="uc1" %>
+<%@ Register Src="../../Control/Footer.ascx" TagName="Footer" TagPrefix="uc2" %>
+
+<!DOCTYPE html>
+
 <html>
 <head>
     <meta content="IE=11.0000"
           http-equiv="X-UA-Compatible">
-    <title>一夜N次郎</title>
+    <title>哈哈特卖-一夜N次郎</title>
     <meta charset="utf-8">
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi">
 
@@ -16,6 +20,7 @@
     <link href="icon.png" rel="apple-touch-icon-precomposed">
     <link href="game/pic.css"
           rel="stylesheet" type="text/css">
+
     <script type="text/javascript">
 
         var isDesktop = navigator['userAgent'].match(/(ipad|iphone|ipod|android|windows phone)/i) ? false : true;
@@ -279,8 +284,21 @@
     </style>
 
     <meta name="GENERATOR" content="MSHTML 11.00.9600.17344">
+
+    <style type="text/css">
+        body
+        {
+            font-family: "proxima-nova-1" , "proxima-nova-2" , "Helvetica" , "Arial" ,sans-serif;
+        }
+    </style>
+
+    <link rel="stylesheet" href="../../js/Default/style.css">
+    <link rel="stylesheet" href="../../js/Default/style_locale.css">
+    <link rel="stylesheet" href="../../js/Default/style2.css">
+
 </head>
-<body onload="init()">
+<body onload="init()" style="line-height:normal;font-size:16px; font-family:'Helvetica Neue', Helvetica, 'Nimbus Sans L', Arial, 'Liberation Sans', 'Hiragino Sans GB', 'Microsoft YaHei', 'Wenquanyi Micro Hei', 'WenQuanYi Zen Hei', 'ST Heiti', SimHei, 'WenQuanYi Zen Hei Sharp', sans-serif">
+    <uc1:Header ID="Head1" runat="server" />
     <img style="left: 0px; top: 0px; width: 0px; position: absolute; opacity: 0;"
          src="game/icon.png">
     <!--<link rel="stylesheet" type="text/css" href="banner.css">
@@ -692,7 +710,7 @@
         }
         document.write(createGameLayer());
     </script>
-
+    
     <div class="BBOX SHADE bgc1 logo" id="GameScoreLayer" style="display: none;">
         <div style="padding: 0px 5%;">
             <div id="GameScoreLayer-text"></div><br>
