@@ -52,6 +52,11 @@
                                     </a>
                                 </li>--%>
                                 <li class="news">
+                                    <a class="item" href="/Modules/QRCode.aspx">
+                                        老杨农产品
+                                    </a>
+                                </li>
+                                <li class="news">
                                     <a class="item" href="/Modules/ChongZhi.aspx">
                                         话费充值
                                     </a>
