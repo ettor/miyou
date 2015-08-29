@@ -9,7 +9,7 @@
     <link rel="shortcut icon" href="../favicon.ico" />
     <script src="../js/Default/jquery.js">
     </script>
-    <title>老杨健康农产品-哈哈特卖网 </title>
+    <title>老杨农产品-哈哈特卖网 </title>
     <style type="text/css">
         body
         {
