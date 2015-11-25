@@ -17,7 +17,7 @@
     <div class="nborderbottom">
         <div class="query">
             当前对账日期:
-            &nbsp;&nbsp;<input id="txtBillCheckDate" class = "Wdate"  onclick="WdatePicker()" runat="server" type="text" style="width:100px"/>
+            &nbsp;&nbsp;<input id="txtBillCheckDate" class = "Wdate"  onclick="WdatePicker({dateFmt:'yyyy-MM-dd HH:mm:ss'})" runat="server" type="text" style="width:200px"/>
             &nbsp;&nbsp;<a href="#" class="easyui-linkbutton" data-options="iconCls:'icon-ok'" onclick="$('#btSave').click()">
                     确认</a>
         </div>
