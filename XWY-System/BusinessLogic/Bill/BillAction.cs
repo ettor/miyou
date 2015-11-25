@@ -123,7 +123,8 @@ namespace BusinessLogic.Bill
             vJsonResult.Status = "success";
             vJsonResult.Msg = "操作成功";
 
-            string vSql = string.Format(" update Bill set status='{0}' where BillId={1} ", pStatus, pId);
+            string vNowDateTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+            string vSql = string.Format(" update Bill set status='{0}',UpdateT='{2}' where BillId={1} ", pStatus, pId, vNowDateTime);
             DBManager vDBManager = new DBManager();
             vDBManager.ConnectionOpen();
             int vRes = vDBManager.ExecuteSql(vSql);
@@ -150,7 +151,9 @@ namespace BusinessLogic.Bill
             vJsonResult.Status = "success";
             vJsonResult.Msg = "操作成功";
 
-            string vSql = string.Format(" update Bill set orderedstatus='{0}' where BillId={1} ", pStatus, pId);
+            string vNowDateTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+
+            string vSql = string.Format(" update Bill set orderedstatus='{0}',UpdateT='{2}' where BillId={1} ", pStatus, pId, vNowDateTime);
             DBManager vDBManager = new DBManager();
             vDBManager.ConnectionOpen();
             int vRes = vDBManager.ExecuteSql(vSql);
